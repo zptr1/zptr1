@@ -1,16 +1,17 @@
-## Hi there 👋
+## hi, i'm yui!
 
-<!--
-**zptr1/zptr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I like everything related to computers, mainly programming, web dev, software engineering, networking and low level stuff.
 
-Here are some ideas to get you started:
+#### Some of my projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[InfiniBrowser](https://infinibrowser.wiki)**: a recipe browser for Infinite Craft (contains over 2 million elements and 30 million recipes)
+- **[mood tracker](https://mood.zptr.cc)**: a minimalistic, simple-to-use mood tracker for everyone
+- **[infiniplace](https://place.zptr.cc)**: an r/place clone with infinite canvas, no cooldown, text on canvas and full RGB color support.
+
+---
+
+<div>
+  <a href="https://zptr.cc"><b>[website]</b></a>
+  <a href="https://discord.gg/8s5rg4hMt9"><b>[discord]</b></a>
+  <img float="right" align="right" src="https://komarev.com/ghpvc/?username=zptr1&color=a054ff">
+</div>
