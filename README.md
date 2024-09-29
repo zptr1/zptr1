@@ -8,8 +8,7 @@ I like everything related to computers, mainly programming, web dev, software en
 - **[mood tracker](https://mood.zptr.cc)**: a minimalistic, simple-to-use mood tracker for everyone
 - **[infiniplace](https://place.zptr.cc)**: an r/place clone with infinite canvas, no cooldown, text on canvas and full RGB color support.
 
----
-
+<br>
 <div>
   <a href="https://zptr.cc"><b>[website]</b></a>
   <a href="https://discord.gg/8s5rg4hMt9"><b>[discord]</b></a>
