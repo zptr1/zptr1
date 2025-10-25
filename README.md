@@ -1,7 +1,7 @@
 - **[InfiniBrowser](https://infinibrowser.wiki)**: a recipe browser for Infinite Craft (contains over 15 million elements and 77 million recipes)
 - **[mood tracker](https://mood.zptr.cc)**: a minimalistic, simple-to-use mood tracker for everyone
 - **[stck](https://github.com/zptr1/stck)**: a compiled, statically typed, stack-based low-level concatenative programming language
-- - **[infiniplace](https://place.zptr.cc)**: an r/place clone with infinite canvas, no cooldown, text on canvas and full RGB color support.
+- **[infiniplace](https://place.zptr.cc)**: an r/place clone with infinite canvas, no cooldown, text on canvas and full RGB color support.
 - **[circuit-board](https://github.com/zptr1/circuit-board)**: a simple circuit board emulator
 
 <br>
