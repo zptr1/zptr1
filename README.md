@@ -1,6 +1,9 @@
-- **[InfiniBrowser](https://infinibrowser.wiki)**: a recipe browser for Infinite Craft containing over 15 million elements and 77 million recipes
+### hi, i'm yui!
+check out some stuff that i made:
+
+- **[InfiniBrowser](https://infinibrowser.wiki)**: a recipe browser for Infinite Craft containing over 17 million elements and 83 million recipes
+- - **[stck](https://github.com/zptr1/stck)**: a compiled, statically typed, stack-based low-level concatenative programming language
 - **[mood tracker](https://mood.zptr.cc)**: a minimalistic, simple-to-use mood tracker for everyone
-- **[stck](https://github.com/zptr1/stck)**: a compiled, statically typed, stack-based low-level concatenative programming language
 - **[infiniplace](https://place.zptr.cc)**: an r/place clone with infinite canvas, no cooldown, text on canvas and full RGB color support.
 - **[circuit-board](https://github.com/zptr1/circuit-board)**: a simple circuit board emulator
 
