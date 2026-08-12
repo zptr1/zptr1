@@ -1,4 +1,4 @@
-### hi, i'm yui!
+### hi, i'm yui! <sup><sub>(she/her)</sub></sup>
 check out some stuff that i made:
 
 - **[The Wall](https://filianislost.com)**: Filian's spray canvas event with live cursors & more
