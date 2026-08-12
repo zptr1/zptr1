@@ -11,7 +11,7 @@ check out some stuff that i made:
 
 <br>
 <div>
-  <a href="https://zptr.cc"><b>[website]</b></a>
-  <a href="https://zptr.cc/discord"><b>[discord]</b></a>
+  <a href="https://yui.dev"><b>[website]</b></a>
+  <a href="https://yui.dev/discord"><b>[discord]</b></a>
   <img float="right" align="right" src="https://komarev.com/ghpvc/?username=zptr1&color=a054ff">
 </div>
