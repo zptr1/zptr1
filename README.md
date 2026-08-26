@@ -1,6 +1,9 @@
 ### hi, i'm yui! <sup><sub>(she/her)</sub></sup>
-check out some stuff that i made:
 
+my blogposts:
+- **[The Depths of JavaScript: Minesweeper in 247 Bytes](https://yui.dev/blog/minesweeper-in-247-bytes)**
+
+stuff that i made:
 - **[The Wall](https://filianislost.com)**: Filian's spray canvas event with live cursors & more
 - **[InfiniBrowser](https://infinibrowser.wiki)**: a recipe browser for Infinite Craft containing over 20 million elements and 100 million recipes
 - **[stck](https://github.com/zptr1/stck)**: a compiled, statically typed, stack-based low-level concatenative programming language
