@@ -1,6 +1,7 @@
 ### hi, i'm yui! <sup><sub>(she/her)</sub></sup>
 
 my blogposts:
+- **[Making Minesweeper in a Single Regex](https://yui.dev/blog/minesweeper-in-regex)**
 - **[The Depths of JavaScript: Minesweeper in 247 Bytes](https://yui.dev/blog/minesweeper-in-247-bytes)**
 
 stuff that i made:
